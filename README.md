@@ -9,9 +9,10 @@ This repository contains automated testing projects:
 
 ## Project Links
 
-- **API Testing with RestAssured**: [Read More]([./api_testing_readme.md](https://github.com/sondos-gamal/Zippopotam_AutomatedAPITests_RESTAssured))
-- **Mobile Testing with Appium**: [Read More]([./mobile_testing_readme.md](https://github.com/sondos-gamal/WeatherForecastAppAutomation_Appium))
-- **Web Testing with Selenium**: [Read More]([./web_testing_readme.md](https://github.com/sondos-gamal/Automation_selenuimFrameWork))
+- **API Testing with RestAssured**: [Read More](https://github.com/sondos-gamal/Zippopotam_AutomatedAPITests_RESTAssured)
+- **Mobile Testing with Appium**: [Read More](https://github.com/sondos-gamal/WeatherForecastAppAutomation_Appium)
+- **Web Testing with Selenium**: [Read More](https://github.com/sondos-gamal/Automation_selenuimFrameWork)
+
 
 
 
